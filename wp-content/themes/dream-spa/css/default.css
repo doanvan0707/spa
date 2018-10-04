@@ -1,0 +1,371 @@
+/* Background color */
+.navbar .navbar-nav > .open > a, 
+.navbar .navbar-nav > .open > a:hover, 
+.navbar .navbar-nav > .open > a:focus, 
+.navbar .navbar-nav > li > a:hover, 
+.navbar .navbar-nav > li > a:focus, 
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus, 
+.navbar-default .navbar-nav > .current_page_item > a, 
+.navbar-default .navbar-nav > .current_page_item > a:hover, 
+.navbar-default .navbar-nav > .current_page_item > a:focus,
+.navbar-default .navbar-nav > li > a:before, 
+#slider .topbar-detail, 
+#spa-page-header .topbar-detail, 
+a.thumb-btn:before, .flex-direction-nav a:hover::before, .direction-nav a:hover::before,
+.more-link, 
+.more-link:hover, 
+.paginations a:before, 
+.paginations a.active, 
+.paginations span.current,
+.widget table caption, 
+.widget table tbody a, 
+.scrollup, 
+ins, 
+input[type="submit"],
+.post-thumbnail i, 
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range, table th { 
+	background-color: #97bc31; 
+}
+
+/* Text Color */
+.entry-title > a:hover, 
+.txt-color, .team-designation, .prt-detail h4, .prt-detail h4 a, .product-name, .product-price, .product-detail .price, 
+.widget ul li a:hover, .widget ul li a:focus, .widget table #next a:hover, .widget table #next a:focus, .widget table #prev a:hover, 
+.widget table #prev a:focus, .tagcloud a:hover, .tagcloud a:focus, .footer-sidebar .widget p a:hover, 
+.footer-links li > a:hover, .footer-links li > a:focus, .site-info p a:hover, .site-info p a:focus, 
+.datetime:hover, .datetime:focus, .reply a:hover, .reply a:focus, .phone, 
+tbody a, p a, dl dd a, a, a:hover, div[class*="wbr_project_widget"] .prt-detail h4 a { 
+	color: #97bc31; 
+}
+
+/* Border Color */
+.paginations a.active, .widget table tbody a, .widget table tbody a:hover, .widget table tbody a:focus { border: 1px solid #97bc31; }
+.about-img-area img { border: 7px solid #97bc31; }
+.widget .widget-title, .comment-title { border-left: 4px solid #97bc31; }
+.google-map iframe { border-bottom: 4px solid #97bc31; }
+.footer-sidebar { border-top: 3px solid #97bc31; }
+blockquote { border-left: 5px solid #97bc31; }
+
+/* Topbar Detail Css */
+.topbar-detail .title { border-right: 1px solid #a1cb2d; } 
+.topbar-detail p.description { color: #edf9cb; }
+.addr-detail address { color: #97bc31; }
+.addr-detail address > strong { color: #6a8816; }
+
+
+.woocommerce span.onsale {
+	background-color:#97bc31;
+	color: #fff;
+}
+
+.woocommerce #respond input#submit.alt, 
+.woocommerce #respond input#submit.alt:hover, 
+.woocommerce a.button.alt, 
+.woocommerce a.button.alt:hover, 
+.woocommerce button.button.alt, 
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt,  
+.woocommerce input.button.alt:hover{
+	background-color: #97bc31;
+	color: #fff;
+}
+
+.woocommerce .woocommerce-message:before {
+	content: "\e015";
+	color: #fff;
+}
+
+.woocommerce .woocommerce-error {
+	border-top-color: #97bc31;
+}
+
+.woocommerce .woocommerce-error:before {
+	content: "\e016";
+	background-color: #97bc31;
+	color: #fff;
+}
+
+.woocommerce .woocommerce-error, 
+.woocommerce-page .woocommerce-error, 
+.woocommerce .woocommerce-message, 
+.woocommerce-page .woocommerce-message, 
+.woocommerce .woocommerce-info, 
+.woocommerce-page .woocommerce-info {
+	border-top: 3px solid #97bc31;
+}
+
+.woocommerce .woocommerce-error:before, 
+.woocommerce-page .woocommerce-error:before, 
+.woocommerce .woocommerce-message:before, 
+.woocommerce-page .woocommerce-message:before, 
+.woocommerce .woocommerce-message:before, 
+.woocommerce-page .woocommerce-message:before, 
+.woocommerce .woocommerce-info:before, 
+.woocommerce-page .woocommerce-info:before, 
+.woocommerce .woocommerce-info:before, 
+.woocommerce-page .woocommerce-info:before { 
+	background-color: #f7f6f7; 
+	color: #97bc31;
+}
+
+.woocommerce form .form-row .required, 
+.woocommerce-shipping-calculator p > a:hover, 
+.woocommerce a.remove, 
+.woocommerce ul.products li.product .price, 
+.woocommerce-info a.showcoupon, 
+a.woocommerce-review-link, 
+.posted_in a, 
+ins span {
+	color: #97bc31;
+}
+
+.woocommerce form .form-row.woocommerce-invalid .select2-container, 
+.woocommerce form .form-row.woocommerce-invalid input.input-text, 
+.woocommerce form .form-row.woocommerce-invalid select,
+.woocommerce form .form-row.woocommerce-validated .select2-container, 
+.woocommerce form .form-row.woocommerce-validated input.input-text, 
+.woocommerce form .form-row.woocommerce-validated select  {
+	border-color: #97bc31;
+}
+
+.woocommerce .label,  
+.woocommerce .badge {
+	background-color: #97bc31;
+}
+
+.woocommerce div.product p.price, .woocommerce div.product span.price {
+	color: #97bc31;
+	font-size: 1.25em;
+}
+
+.woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover {
+    color: #97bc31;
+}
+
+/*CSS EDIT*/
+hr {
+  color: #000;
+  background: #000;
+  border: 0;
+  height: 3px;
+}
+
+#section {
+	padding: 0 !important;
+}
+
+.slide {
+	position: relative;
+}
+
+.slide-content {
+	position: absolute;
+    top: 40%;
+    left: 15%;
+}
+.slide-content button {
+	color: #fff;
+	background: #97bc31;
+	border: none;
+	border-radius: 5px;
+	padding: 5px 10px;
+	font-weight: bold;
+}
+.slide-content button:hover {
+	background: blue;
+}
+.chat-now {
+	text-align: center;
+}
+.chat-now h2 {
+    margin-top: 20px;
+    color: #99cc31;
+    text-transform: uppercase;
+    font-size: 50px;
+}
+.chat-now p {
+	color: #ff9835;
+	font-size: 30px;
+	text-shadow: 2px 2px 2px #000;
+}
+.service {
+	text-align: center;
+	margin-bottom:50px;
+}
+.service p {
+	margin: 0;
+}
+.img-service img {
+	text-align: center;
+    margin: 15px 0 90px !important;
+    display: inline-block;
+}
+.service1-info,
+.service2-info,
+.service3-info {
+    padding-top: 70px;	
+}
+.service1-info {
+	background: #e5d8ac;
+	border: solid 10px #dbcea4;
+}
+.service1-info a,
+.service2-info a,
+.service3-info a {
+	color: #000;
+	font-weight: bold;
+	margin: 10px 0;
+}
+.service2-info {
+	background: #e6adbc;
+	border: solid 10px #daa2af;
+}
+.service3-info {
+	background: #bbd5de;
+	border: solid 10px #a6ceda;
+}
+.service-position {
+	position: relative;
+}
+.service-img {
+    position: absolute;
+    top: -72px;
+    left: 120px;
+}
+.description {
+	position: relative;
+}
+
+.description-content {
+	position: absolute;
+    top: 40%;
+    left: 15%;
+}
+.description-content h2 {
+	color: #fff;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+}
+.description-content p {
+	color: #fff;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
+.description-content a {
+	position: absolute;
+    left: 37%;
+	color: #fff;
+	background: #515151;
+	border: none;
+	border-radius: 5px;
+	padding: 10px 20px;
+	text-align: center;
+	font-weight: bold;
+	text-align: center;
+}
+.description-content a:hover {
+	background: blue;
+}
+.info-spa {
+	text-align: center;
+	margin: 30px 0;
+}
+.info-spa h2 {
+	color: #ff9835;
+	font-size: 40px;
+	font-weight: bold;
+}
+.info-spa p {
+	color: #0e1eef;
+}
+.info-spa a {
+	font-size: 20px !important;
+	font-weight: bold;
+}
+.info-spa a:hover {
+	color: #000;
+}
+footer {
+	background: #a4a4a4;
+	border-top: solid 2px #00adef;
+}
+
+footer p {
+    margin-top: 30px;
+}
+.coppyright {
+	color: #000;
+	font-size: 20px;
+}
+.newstarvn {
+	color: #182dfa;
+	font-size: 20px;
+	text-shadow: 2px 2px 2px #000;
+}
+.icon img,
+.chat-icon img {
+	margin-top: 20px;
+	display: inline-block;
+}
+
+
+/*Small devices (landscape phones, 576px and up)*/ 
+@media (max-width: 576px) {
+	.slide-content {
+	    top: 10%;
+	    font-size: 15px;
+	}
+	.slide-content button {
+		background: #97bc31;
+		border: none;
+		border-radius: 5px;
+		padding: 5px 10px;
+		font-weight: bold;
+	}
+	.slide-content h2,
+	.slide-content p {
+		margin-bottom: 0;
+	}
+	.chat-now h2 {
+		font-size: 37px;
+	}
+	.description-content {
+		top: 5px;
+    	left: 0;
+	}
+	.description-content h2 {
+		margin-bottom:0;
+		font-size: 23px;
+	}
+	.description-content p {
+    	margin-bottom: 5px;
+    	font-size: 16px;
+	}
+	.info-spa h2 {
+		font-size: 27px;
+	}
+	.coppyright {
+		text-align: center;
+	}
+	.newstarvn {
+		text-align: center;
+	}
+	.icon {
+	    margin-left: 45px;
+	}
+	.service-img {
+	    position: absolute;
+	    top: -44px;
+	    left: 168px;
+	    width: 90px;
+	    height: 90px;
+	}    
+	.service1-info,
+	.service2-info {
+		margin-bottom: 70px;
+	}
+}
